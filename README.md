@@ -1,1 +1,1 @@
-# ProductCards
+# Тестовый проект с карточками товаров и прикрученными PostgreSQL и Docker
